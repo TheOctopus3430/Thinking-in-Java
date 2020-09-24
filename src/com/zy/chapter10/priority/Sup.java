@@ -1,4 +1,4 @@
-package com.zy.chapter13.priority;
+package com.zy.chapter10.priority;
 
 public class Sup {
 

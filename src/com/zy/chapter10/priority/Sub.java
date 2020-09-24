@@ -1,4 +1,4 @@
-package com.zy.chapter13.priority;
+package com.zy.chapter10.priority;
 
 public class Sub extends Sup implements MyInterface {
     public static void main(String[] args) {

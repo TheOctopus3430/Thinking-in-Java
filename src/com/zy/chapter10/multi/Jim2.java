@@ -1,4 +1,4 @@
-package com.zy.chapter13.multi;
+package com.zy.chapter10.multi;
 
 public interface Jim2 {
 
